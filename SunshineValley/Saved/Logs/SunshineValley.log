@@ -933,3 +933,2938 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.27-17.12.31:830][792]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character763586A643F18EA19BA5E68FB71DC1B8.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
 [2020.01.27-17.12.31:858][792]AssetCheck: New page: Asset Save: CH_Character
 [2020.01.27-17.12.31:858][792]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.27-17.16.50:401][919]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.27-17.17.14:970][962]LogUObjectHash: Compacting FUObjectHashTables data took  12.90ms
+[2020.01.27-17.17.14:972][962]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.203
+[2020.01.27-17.17.14:988][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/UI_HUD] ([1] browsable assets)...
+[2020.01.27-17.17.14:988][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/UI_HUD]
+[2020.01.27-17.17.15:036][962]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_HUD_Auto1C45537DD47A58B227750E98D1ED13885.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Autosaves/Game/Core/UI/UI_HUD_Auto1.uasset'
+[2020.01.27-17.17.15:045][962]LogFileHelpers: Auto-saving content packages took 0.070
+[2020.01.27-17.17.37:465][473]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.01.27-17.17.42:810][473]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.27-17.17.52:645][  3]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/UI/BP_GameHUD.BP_GameHUD
+[2020.01.27-17.18.24:825][579]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-17.19.08:119][762]BlueprintLog: New page: Compile BP_GameHUD
+[2020.01.27-17.19.09:033][762]LogUObjectHash: Compacting FUObjectHashTables data took  10.71ms
+[2020.01.27-17.19.09:411][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/BP_GameHUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset" SILENT=true
+[2020.01.27-17.19.09:438][762]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/BP_GameHUD0D5DAEBF47FD2FC26627C8A7DEA86523.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset'
+[2020.01.27-17.19.10:004][762]AssetCheck: New page: Asset Save: BP_GameHUD
+[2020.01.27-17.19.10:004][762]LogContentValidation: Display: Validating Blueprint /Game/Core/UI/BP_GameHUD.BP_GameHUD
+[2020.01.27-17.19.10:924][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/BP_GameHUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset" SILENT=true
+[2020.01.27-17.19.10:963][777]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/BP_GameHUDE4F445F04140A3BAA38E3E950326D9B9.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset'
+[2020.01.27-17.19.10:987][777]AssetCheck: New page: Asset Save: BP_GameHUD
+[2020.01.27-17.19.10:987][777]LogContentValidation: Display: Validating Blueprint /Game/Core/UI/BP_GameHUD.BP_GameHUD
+[2020.01.27-17.19.26:780][473]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.27-17.19.35:440][841]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.27-17.19.47:242][331]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.27-17.20.29:338][165]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.27-17.22.21:710][100]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.27-17.23.10:980][210]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.27-17.23.16:387][427]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.27-17.23.26:192][848]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.27-17.24.17:101][416]BlueprintLog: New page: Compile UI_HUD
+[2020.01.27-17.24.17:374][416]LogUObjectHash: Compacting FUObjectHashTables data took  12.46ms
+[2020.01.27-17.24.18:429][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_HUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset" SILENT=true
+[2020.01.27-17.24.18:454][446]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_HUD334FCA884AE10AE2384B28A0831E946E.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset'
+[2020.01.27-17.24.19:087][446]AssetCheck: New page: Asset Save: UI_HUD
+[2020.01.27-17.24.19:087][446]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.27-17.26.10:869][729]BlueprintLog: New page: Compile UI_HUD
+[2020.01.27-17.26.11:082][729]LogUObjectHash: Compacting FUObjectHashTables data took  10.76ms
+[2020.01.27-17.26.12:182][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_HUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset" SILENT=true
+[2020.01.27-17.26.12:281][746]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_HUDE27367234B487697D33384AEBF7275AE.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset'
+[2020.01.27-17.26.12:307][746]AssetCheck: New page: Asset Save: UI_HUD
+[2020.01.27-17.26.12:307][746]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.27-17.26.54:901][719]BlueprintLog: New page: Compile UI_HUD
+[2020.01.27-17.26.55:022][719]LogUObjectHash: Compacting FUObjectHashTables data took  13.76ms
+[2020.01.27-17.26.55:785][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_HUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset" SILENT=true
+[2020.01.27-17.26.55:833][735]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_HUD5B702C9040976F04AFBE68AE287DEA75.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset'
+[2020.01.27-17.26.55:857][735]AssetCheck: New page: Asset Save: UI_HUD
+[2020.01.27-17.26.55:858][735]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.27-17.27.49:363][208]BlueprintLog: New page: Compile UI_HUD
+[2020.01.27-17.27.49:487][208]LogUObjectHash: Compacting FUObjectHashTables data took  14.32ms
+[2020.01.27-17.27.50:947][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_HUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset" SILENT=true
+[2020.01.27-17.27.50:992][245]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_HUDF96A82584E95D26170D858AC35564A27.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset'
+[2020.01.27-17.27.51:019][245]AssetCheck: New page: Asset Save: UI_HUD
+[2020.01.27-17.27.51:019][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.27-17.44.12:826][689]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.01.27-17.44.14:141][689]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.27-17.44.37:509][890]BlueprintLog: New page: Compile BP_GameHUD
+[2020.01.27-17.44.38:225][890]LogUObjectHash: Compacting FUObjectHashTables data took  10.07ms
+[2020.01.27-17.44.38:835][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/BP_GameHUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset" SILENT=true
+[2020.01.27-17.44.38:916][904]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/BP_GameHUD4F939D164D854F2A9A473A82D2E8ADCF.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset'
+[2020.01.27-17.44.38:940][904]AssetCheck: New page: Asset Save: BP_GameHUD
+[2020.01.27-17.44.38:940][904]LogContentValidation: Display: Validating Blueprint /Game/Core/UI/BP_GameHUD.BP_GameHUD
+[2020.01.27-17.44.40:071][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/BP_GameHUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset" SILENT=true
+[2020.01.27-17.44.40:134][939]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/BP_GameHUDF7C9B17647BF88B7536315B6C68FECB2.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/BP_GameHUD.uasset'
+[2020.01.27-17.44.40:155][939]AssetCheck: New page: Asset Save: BP_GameHUD
+[2020.01.27-17.44.40:156][939]LogContentValidation: Display: Validating Blueprint /Game/Core/UI/BP_GameHUD.BP_GameHUD
+[2020.01.27-17.44.42:789][ 63]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/GMode_SunshineValley.GMode_SunshineValley
+[2020.01.27-17.44.46:168][137]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-17.44.49:951][283]BlueprintLog: New page: Compile GMode_SunshineValley
+[2020.01.27-17.44.50:677][283]LogUObjectHash: Compacting FUObjectHashTables data took   9.54ms
+[2020.01.27-17.44.51:572][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/GMode_SunshineValley" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/GMode_SunshineValley.uasset" SILENT=true
+[2020.01.27-17.44.51:672][303]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/GMode_SunshineValleyFD42449149F8151D1C55B68FE774CBA0.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/GMode_SunshineValley.uasset'
+[2020.01.27-17.44.52:435][303]AssetCheck: New page: Asset Save: GMode_SunshineValley
+[2020.01.27-17.44.52:435][303]LogContentValidation: Display: Validating Blueprint /Game/Core/GMode_SunshineValley.GMode_SunshineValley
+[2020.01.27-17.44.55:907][460]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.01.27-17.44.56:946][460]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.01.27-17.45.03:388][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Core/PC_World.PC_World
+[2020.01.27-17.45.23:338][573]BlueprintLog: New page: Compile PC_World
+[2020.01.27-17.45.24:119][573]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2020.01.27-17.45.24:426][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PC_World" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/PC_World.uasset" SILENT=true
+[2020.01.27-17.45.24:453][573]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/PC_World929BE3634D4EF68E0DB4E3A2B792D8B2.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/PC_World.uasset'
+[2020.01.27-17.45.25:002][573]AssetCheck: New page: Asset Save: PC_World
+[2020.01.27-17.45.25:002][573]LogContentValidation: Display: Validating Blueprint /Game/Core/PC_World.PC_World
+[2020.01.27-17.45.25:790][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PC_World" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/PC_World.uasset" SILENT=true
+[2020.01.27-17.45.25:839][590]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/PC_World42C3C2354EA57AF96638A9A39263E33F.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/PC_World.uasset'
+[2020.01.27-17.45.25:876][590]AssetCheck: New page: Asset Save: PC_World
+[2020.01.27-17.45.25:876][590]LogContentValidation: Display: Validating Blueprint /Game/Core/PC_World.PC_World
+[2020.01.27-17.45.31:004][850]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-17.45.31:250][850]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.45.31:309][850]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-17.45.31:444][850]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2020, 9:45:31 PM)
+[2020.01.27-17.45.31:547][850]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.27-17.45.31:551][850]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.27-17.45.31:567][850]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-17.45.32:027][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.460071s)
+[2020.01.27-17.45.32:051][850]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.27-17.45.32:255][850]LogPlayLevel: PIE: World Init took: (0.228261s)
+[2020.01.27-17.45.32:267][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.700963s)
+[2020.01.27-17.45.32:368][850]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2020.01.27-17.45.32:411][850]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-17.45.32:411][850]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-17.45.32:412][850]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-17.45.32:412][850]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-17.45.32:412][850]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-17.45.32:412][850]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-17.45.32:412][850]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-17.45.32:420][850]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-17.45.32:432][850]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-17.45.32:432][850]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-17.45.32:494][850]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-17.45.32:494][850]LogAudioMixer: Display: Name: Headphones (DROP MAX Stereo)
+[2020.01.27-17.45.32:494][850]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-17.45.32:495][850]LogAudioMixer: Display: Sample Rate: 44100
+[2020.01.27-17.45.32:495][850]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.27-17.45.32:495][850]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.27-17.45.32:495][850]LogAudioMixer: Display: Channel Order:
+[2020.01.27-17.45.32:495][850]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-17.45.32:495][850]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-17.45.32:536][850]LogAudioMixer: Display: Using Audio Device Headphones (DROP MAX Stereo)
+[2020.01.27-17.45.32:585][850]LogInit: FAudioDevice initialized.
+[2020.01.27-17.45.32:814][850]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.27-17.45.32:890][850]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.27-19.45.32
+[2020.01.27-17.45.32:915][850]LogWorld: Bringing up level for play took: 0.097959
+[2020.01.27-17.45.33:032][850]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.01.27-17.45.33:364][850]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0035 seconds. Added 20 classes and 0 folders.
+[2020.01.27-17.45.33:447][850]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.429
+[2020.01.27-17.45.33:448][850]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.45.35:614][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.45.35:615][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.45.35:687][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.45.35:726][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-17.45.35:737][906]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-17.45.35:752][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.45.35:762][906]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-17.45.35:792][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-17.45.35:903][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-17.45.35:914][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.45.35:925][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-17.45.36:051][906]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.45.36:176][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-17.45.36:519][906]LogUObjectHash: Compacting FUObjectHashTables data took  11.22ms
+[2020.01.27-17.45.36:549][907]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.27-17.45.42:856][212]Cmd: DELETE
+[2020.01.27-17.45.42:942][212]Cmd: ACTOR DELETE
+[2020.01.27-17.45.43:518][212]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2020.01.27-17.45.43:675][212]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2020.01.27-17.45.43:702][212]LogEditorActor: Deleted 1 Actors (0.245 secs)
+[2020.01.27-17.45.44:130][227]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.27-17.45.52:444][646]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:444][646]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.01.27-17.45.52:445][646]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.01.27-17.45.52:445][646]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:445][646]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2020.01.27-17.45.52:445][646]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:445][646]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.01.27-17.45.52:445][646]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.01.27-17.45.52:445][646]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.01.27-17.45.52:445][646]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.01.27-17.45.52:445][646]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.01.27-17.45.52:446][646]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.01.27-17.45.52:446][646]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.01.27-17.45.52:447][646]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.01.27-17.45.52:448][646]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2020.01.27-17.45.52:448][646]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.27-17.45.52:449][646]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.01.27-17.45.52:449][646]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.01.27-17.45.52:450][646]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2020.01.27-17.45.52:451][646]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [E:/Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.27-17.45.52:451][646]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.27-17.45.56:023][646]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2020.01.27-17.45.56:455][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.01.27-17.45.56:455][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.01.27-17.45.56:455][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.01.27-17.45.56:455][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.01.27-17.45.56:455][646]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.27-17.45.56:712][646]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2020.01.27-17.45.56:794][646]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2020.01.27-17.45.56:845][646]LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling. 
+[2020.01.27-17.45.59:504][646]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.01.27-17.46.05:271][792]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 248
+[2020.01.27-17.46.11:738][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 238
+[2020.01.27-17.46.12:217][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 228
+[2020.01.27-17.46.12:613][ 96]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 218
+[2020.01.27-17.46.14:114][159]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 208
+[2020.01.27-17.46.19:765][425]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 198
+[2020.01.27-17.46.19:765][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.01.27-17.46.21:112][464]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-17.46.21:251][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.46.21:251][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-17.46.21:252][464]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2020, 9:46:21 PM)
+[2020.01.27-17.46.21:252][464]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-17.46.21:283][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030686s)
+[2020.01.27-17.46.21:286][464]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.27-17.46.21:286][464]LogPlayLevel: PIE: World Init took: (0.003652s)
+[2020.01.27-17.46.21:287][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034934s)
+[2020.01.27-17.46.21:410][464]LogUObjectHash: Compacting FUObjectHashTables data took  16.29ms
+[2020.01.27-17.46.21:424][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-17.46.21:424][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-17.46.21:424][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-17.46.21:424][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-17.46.21:424][464]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-17.46.21:424][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-17.46.21:424][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-17.46.21:425][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-17.46.21:426][464]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-17.46.21:426][464]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-17.46.21:489][464]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-17.46.21:489][464]LogAudioMixer: Display: Name: Headphones (DROP MAX Stereo)
+[2020.01.27-17.46.21:489][464]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-17.46.21:489][464]LogAudioMixer: Display: Sample Rate: 44100
+[2020.01.27-17.46.21:490][464]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.27-17.46.21:490][464]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.27-17.46.21:490][464]LogAudioMixer: Display: Channel Order:
+[2020.01.27-17.46.21:490][464]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-17.46.21:490][464]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-17.46.21:528][464]LogAudioMixer: Display: Using Audio Device Headphones (DROP MAX Stereo)
+[2020.01.27-17.46.21:535][464]LogInit: FAudioDevice initialized.
+[2020.01.27-17.46.21:568][464]LogLoad: Game class is 'GMode_SunshineValley_C'
+[2020.01.27-17.46.21:572][464]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.27-19.46.21
+[2020.01.27-17.46.21:573][464]LogWorld: Bringing up level for play took: 0.003029
+[2020.01.27-17.46.21:573][464]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.01.27-17.46.22:003][464]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 188
+[2020.01.27-17.46.22:003][464]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.015
+[2020.01.27-17.46.22:004][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.46.22:112][464]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0:0027
+[2020.01.27-17.46.22:112][464]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0:0046
+[2020.01.27-17.46.22:112][464]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:112][464]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0:0027
+[2020.01.27-17.46.22:112][464]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0:0046
+[2020.01.27-17.46.22:113][464]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:113][464]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0:0027
+[2020.01.27-17.46.22:113][464]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0:0046
+[2020.01.27-17.46.22:113][464]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:494][465]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0:0027
+[2020.01.27-17.46.22:494][465]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0:0046
+[2020.01.27-17.46.22:494][465]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:494][465]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0:0027
+[2020.01.27-17.46.22:494][465]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0:0046
+[2020.01.27-17.46.22:494][465]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:495][465]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0:0027
+[2020.01.27-17.46.22:495][465]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0:0046
+[2020.01.27-17.46.22:495][465]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:522][466]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0:0027
+[2020.01.27-17.46.22:522][466]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0:0046
+[2020.01.27-17.46.22:522][466]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:522][466]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0:0027
+[2020.01.27-17.46.22:522][466]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0:0046
+[2020.01.27-17.46.22:522][466]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:523][466]LogScript: Warning: Accessed None trying to read property CharacterReference
+	UI_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.UI_HUD_C_0
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0:0027
+[2020.01.27-17.46.22:523][466]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:542][467]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:542][467]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:542][467]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:559][468]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:560][468]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:560][468]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:581][469]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:581][469]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:581][469]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:602][470]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:603][470]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:603][470]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:628][471]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:628][471]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:629][471]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:650][472]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:651][472]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:651][472]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:671][473]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:671][473]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:671][473]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:693][474]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:694][474]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:695][474]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:730][475]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:730][475]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:730][475]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:752][476]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:753][476]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:753][476]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:775][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:775][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:775][477]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:800][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:800][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:800][478]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:822][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:822][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:823][479]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:846][480]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:846][480]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:847][480]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:867][481]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:867][481]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:867][481]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:888][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:888][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:888][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:914][483]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:914][483]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:914][483]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:935][484]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:935][484]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:935][484]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:955][485]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:955][485]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:955][485]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.22:978][486]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.22:978][486]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.22:979][486]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:001][487]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:001][487]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:001][487]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:024][488]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:024][488]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:024][488]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:048][489]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:048][489]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:049][489]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:072][490]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:072][490]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:072][490]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:095][491]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:095][491]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:095][491]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:116][492]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:116][492]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:116][492]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:138][493]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:138][493]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:138][493]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:161][494]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:161][494]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:161][494]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:184][495]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:184][495]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:184][495]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:208][496]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:208][496]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:208][496]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:229][497]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:230][497]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:230][497]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:252][498]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:252][498]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:253][498]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:273][499]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:273][499]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:273][499]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:293][500]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:293][500]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:294][500]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:319][501]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:319][501]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:319][501]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:338][502]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:338][502]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:338][502]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:359][503]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:359][503]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:359][503]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:379][504]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:379][504]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:380][504]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:385][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 178
+[2020.01.27-17.46.23:401][505]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:401][505]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:401][505]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:425][506]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:425][506]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:426][506]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:449][507]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:449][507]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:449][507]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:468][508]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:469][508]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:469][508]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:487][509]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:487][509]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:487][509]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:507][510]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:508][510]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:508][510]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:531][511]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:531][511]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:531][511]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:552][512]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:552][512]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:552][512]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:575][513]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:575][513]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:575][513]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:594][514]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:595][514]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:595][514]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:618][515]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:618][515]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:619][515]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:642][516]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:642][516]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:642][516]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:659][517]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:659][517]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:660][517]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:679][518]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:679][518]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:679][518]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:699][519]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:699][519]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:700][519]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:723][520]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:723][520]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:723][520]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:743][521]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:743][521]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:743][521]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:762][522]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:762][522]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:762][522]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:782][523]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:782][523]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:783][523]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:804][524]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:804][524]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:805][524]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:829][525]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:829][525]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:830][525]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:853][526]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:853][526]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:854][526]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:875][527]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:875][527]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:876][527]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:896][528]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:896][528]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:896][528]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:919][529]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:920][529]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:920][529]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:942][530]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:942][530]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:942][530]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:962][531]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:962][531]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:962][531]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.23:982][532]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.23:982][532]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.23:983][532]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:006][533]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:006][533]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:006][533]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:031][534]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:032][534]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:032][534]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:052][535]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:053][535]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:053][535]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:072][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:072][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:072][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:090][537]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:090][537]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:090][537]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:113][538]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:113][538]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:114][538]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:135][539]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:135][539]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:135][539]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:153][540]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:154][540]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:154][540]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:174][541]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:175][541]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:175][541]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:193][542]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:194][542]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:194][542]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:218][543]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:219][543]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:219][543]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:238][544]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:238][544]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:239][544]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:261][545]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:261][545]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:262][545]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:280][546]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:280][546]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:280][546]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:303][547]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:303][547]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:303][547]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:326][548]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:327][548]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:327][548]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:346][549]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:347][549]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:347][549]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:367][550]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:368][550]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:368][550]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:387][551]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:387][551]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:387][551]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:413][552]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:413][552]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:414][552]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:432][553]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:433][553]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:433][553]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:453][554]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:454][554]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:454][554]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:476][555]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:476][555]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:476][555]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:496][556]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:496][556]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:496][556]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:517][557]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:518][557]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:518][557]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:538][558]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:538][558]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:538][558]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:557][559]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:557][559]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:557][559]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:578][560]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:579][560]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:579][560]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:600][561]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:600][561]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:601][561]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:622][562]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:623][562]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:623][562]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:645][563]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:645][563]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:646][563]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:667][564]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:667][564]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:668][564]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:686][565]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:687][565]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:687][565]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:709][566]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:709][566]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:710][566]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:732][567]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:732][567]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:732][567]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:751][568]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:751][568]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:751][568]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:776][569]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:776][569]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:776][569]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:795][570]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:795][570]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:795][570]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:818][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:818][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:818][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:840][572]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:840][572]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:840][572]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:860][573]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:860][573]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:861][573]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:880][574]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:880][574]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:880][574]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:898][575]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:898][575]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:898][575]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:923][576]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:923][576]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:924][576]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:945][577]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:945][577]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:946][577]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.24:996][578]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.24:997][578]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.24:997][578]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:029][579]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:029][579]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:029][579]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:052][580]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:053][580]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:053][580]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:075][581]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:075][581]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:075][581]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:100][582]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:100][582]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:100][582]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:131][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:132][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:132][583]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:154][584]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:154][584]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:155][584]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:178][585]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:178][585]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:178][585]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:202][586]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:202][586]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:203][586]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:240][587]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:240][587]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:241][587]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:264][588]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:265][588]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:265][588]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:289][589]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:290][589]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:290][589]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:313][590]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:313][590]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:314][590]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:339][591]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:339][591]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:340][591]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:370][592]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:371][592]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:371][592]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:393][593]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:393][593]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:394][593]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:421][594]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:421][594]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:421][594]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:443][595]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:443][595]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:443][595]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:474][596]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:475][596]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:475][596]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:497][597]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:497][597]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:498][597]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:519][598]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:519][598]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:520][598]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:545][599]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:545][599]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:545][599]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:574][600]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:575][600]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:575][600]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:594][601]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:594][601]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:594][601]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:623][602]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:624][602]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:624][602]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:647][603]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:647][603]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:647][603]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:669][604]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:669][604]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:669][604]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:692][605]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:692][605]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:692][605]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:719][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:719][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:720][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:748][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:748][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:748][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:770][608]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:770][608]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:770][608]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:790][609]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:790][609]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:790][609]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:813][610]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:814][610]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:814][610]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:837][611]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:837][611]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:837][611]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:931][612]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:932][612]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:932][612]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:952][613]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:953][613]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:953][613]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:976][614]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:976][614]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:976][614]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.25:997][615]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.25:997][615]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.25:997][615]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:020][616]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:020][616]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:020][616]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:046][617]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:047][617]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:048][617]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:068][618]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:069][618]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:069][618]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:091][619]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:092][619]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:092][619]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:115][620]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:115][620]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:115][620]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:141][621]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:141][621]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:141][621]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:161][622]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:161][622]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:161][622]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:183][623]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:183][623]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:184][623]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:206][624]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:206][624]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:207][624]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:234][625]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:234][625]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:234][625]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:256][626]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:256][626]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:256][626]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:284][627]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:284][627]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:285][627]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:309][628]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:310][628]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:310][628]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:336][629]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:336][629]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:336][629]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:362][630]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:362][630]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:362][630]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:449][631]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:449][631]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:449][631]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:471][632]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:471][632]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:471][632]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:497][633]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:497][633]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:498][633]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:522][634]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:522][634]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:523][634]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:555][635]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:555][635]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:556][635]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:580][636]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:581][636]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:581][636]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:602][637]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:602][637]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:602][637]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:623][638]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:624][638]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:624][638]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:648][639]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:648][639]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:648][639]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:667][640]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:668][640]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:668][640]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:688][641]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:688][641]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:688][641]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:708][642]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:709][642]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:709][642]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:734][643]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:735][643]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:735][643]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:754][644]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:754][644]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:754][644]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:772][645]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:772][645]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:772][645]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:789][646]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:790][646]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:790][646]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:808][647]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:808][647]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:809][647]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:834][648]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:834][648]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:834][648]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:853][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:853][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:853][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:872][650]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:872][650]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:872][650]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:892][651]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:892][651]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:892][651]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:916][652]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:916][652]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:916][652]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:939][653]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:939][653]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:939][653]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:959][654]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:959][654]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:959][654]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.26:983][655]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.26:983][655]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.26:983][655]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:003][656]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:004][656]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:004][656]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:027][657]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:027][657]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:028][657]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:051][658]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:051][658]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:051][658]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:072][659]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:072][659]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:073][659]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:091][660]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:091][660]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:092][660]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:112][661]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:112][661]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:112][661]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:138][662]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:139][662]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:139][662]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:160][663]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:161][663]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:162][663]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:184][664]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:184][664]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:184][664]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:203][665]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:203][665]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:204][665]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:227][666]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:227][666]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:227][666]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:248][667]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:249][667]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:249][667]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:271][668]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:271][668]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:271][668]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:291][669]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:291][669]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:292][669]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:312][670]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:313][670]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:313][670]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:334][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:335][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:335][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:354][672]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_HealthBar_Percent_0
+
+[2020.01.27-17.46.27:355][672]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_StaminaBar_Percent_0
+
+[2020.01.27-17.46.27:355][672]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Core/UI/UI_HUD.UI_HUD_C:Get_MagicBar_Percent_0
+
+[2020.01.27-17.46.27:369][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.46.27:369][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.46.27:369][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.46.27:384][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-17.46.27:384][673]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-17.46.27:398][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.46.27:399][673]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-17.46.27:400][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-17.46.27:419][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-17.46.27:419][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.46.27:438][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-17.46.27:568][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.46.27:576][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-17.46.27:593][673]LogUObjectHash: Compacting FUObjectHashTables data took  14.05ms
+[2020.01.27-17.46.27:653][674]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.27-17.46.30:459][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 168
+[2020.01.27-17.46.33:656][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 158
+[2020.01.27-17.46.36:840][  5]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 148
+[2020.01.27-17.46.38:340][ 61]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 138
+[2020.01.27-17.46.38:659][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-17.46.38:782][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.46.38:782][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-17.46.38:782][ 73]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 27, 2020, 9:46:38 PM)
+[2020.01.27-17.46.38:783][ 73]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-17.46.38:813][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029787s)
+[2020.01.27-17.46.38:816][ 73]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.27-17.46.38:834][ 73]LogPlayLevel: PIE: World Init took: (0.021335s)
+[2020.01.27-17.46.38:834][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051593s)
+[2020.01.27-17.46.38:965][ 73]LogUObjectHash: Compacting FUObjectHashTables data took  15.10ms
+[2020.01.27-17.46.38:968][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-17.46.38:968][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-17.46.38:969][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-17.46.38:969][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-17.46.38:969][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-17.46.38:969][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-17.46.38:969][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-17.46.38:969][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-17.46.38:970][ 73]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-17.46.38:971][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: Name: Headphones (DROP MAX Stereo)
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: Sample Rate: 44100
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: Channel Order:
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-17.46.39:033][ 73]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-17.46.39:069][ 73]LogAudioMixer: Display: Using Audio Device Headphones (DROP MAX Stereo)
+[2020.01.27-17.46.39:074][ 73]LogInit: FAudioDevice initialized.
+[2020.01.27-17.46.39:092][ 73]LogLoad: Game class is 'GMode_SunshineValley_C'
+[2020.01.27-17.46.39:098][ 73]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.27-19.46.39
+[2020.01.27-17.46.39:099][ 73]LogWorld: Bringing up level for play took: 0.004248
+[2020.01.27-17.46.39:100][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.01.27-17.46.39:133][ 73]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.115
+[2020.01.27-17.46.39:133][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.46.48:153][460]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 128
+[2020.01.27-17.46.48:632][481]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 118
+[2020.01.27-17.46.55:551][771]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2020.01.27-17.46.59:877][964]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2020.01.27-17.47.06:318][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2020.01.27-17.47.09:435][393]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.47.09:436][393]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.47.09:436][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.47.09:436][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-17.47.09:437][393]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-17.47.09:437][393]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.47.09:437][393]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-17.47.09:438][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-17.47.09:459][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-17.47.09:460][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-17.47.09:481][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-17.47.09:601][393]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-17.47.09:665][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-17.47.09:681][393]LogUObjectHash: Compacting FUObjectHashTables data took  13.62ms
+[2020.01.27-17.47.09:747][394]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.01.27-17.47.10:165][404]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 78
+[2020.01.27-17.47.12:289][483]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2020.01.27-17.47.16:710][593]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.01.27-17.47.17:327][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.01.27-17.47.25:936][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
