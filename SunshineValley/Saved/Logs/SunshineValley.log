@@ -815,3 +815,93 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.28-16.48.17:032][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.01.28-16.48.17:041][717]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
 [2020.01.28-16.48.17:077][718]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.01.28-17.06.13:006][940]LogSlate: Took 0.024992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.28-17.06.36:260][795]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.06.36:974][795]LogUObjectHash: Compacting FUObjectHashTables data took  12.33ms
+[2020.01.28-17.06.39:500][865]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character06F221C54850A2EC47DB15800435892F.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.06.39:526][865]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.06.39:526][865]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.06.50:798][286]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.06.51:452][286]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2020.01.28-17.06.52:166][289]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character6C25919F44D4177AC81D368CBE3AA768.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.06.52:191][289]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.06.52:192][289]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.07.26:806][884]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.07.27:497][884]LogUObjectHash: Compacting FUObjectHashTables data took  10.95ms
+[2020.01.28-17.07.28:359][895]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character4D1BD03B49E6655955A5C5A9C7E39FBA.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.07.28:390][895]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.07.28:390][895]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.07.32:627][ 73]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.01.28-17.07.42:458][435]SourceControl: fatal: /Script: '/Script' is outside repository
+[2020.01.28-17.07.45:601][554]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.01.28-17.08.16:059][943]LogUObjectHash: Compacting FUObjectHashTables data took  15.43ms
+[2020.01.28-17.08.16:072][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.105
+[2020.01.28-17.08.16:073][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/GMode_SunshineValley] ([1] browsable assets)...
+[2020.01.28-17.08.16:073][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/GMode_SunshineValley]
+[2020.01.28-17.08.16:459][943]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/GMode_SunshineValley_Auto56AAFF03540A8D2C384C0BCA8E34C0E3F.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Autosaves/Game/Core/GMode_SunshineValley_Auto5.uasset'
+[2020.01.28-17.08.16:460][943]LogFileHelpers: Auto-saving content packages took 0.388
+[2020.01.28-17.09.46:532][351]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.09.47:238][351]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2020.01.28-17.09.48:063][359]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_CharacterA87595FE4F7FFDE7C2C774A75CCCE097.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.09.48:091][359]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.09.48:091][359]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.10.46:607][916]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.10.47:296][916]LogUObjectHash: Compacting FUObjectHashTables data took   9.80ms
+[2020.01.28-17.10.48:272][936]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_CharacterD5287B0E407D91D7AB0CC3990EBDE37F.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.10.48:296][936]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.10.48:296][936]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.11.40:925][280]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.11.41:600][280]LogUObjectHash: Compacting FUObjectHashTables data took   9.46ms
+[2020.01.28-17.11.42:764][301]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character0C9989F442498BCC4E1C6D9196B17EBD.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.11.42:796][301]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.11.42:796][301]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.12.06:152][274]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.12.06:941][274]LogUObjectHash: Compacting FUObjectHashTables data took   9.35ms
+[2020.01.28-17.12.07:515][274]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_CharacterA47CB5AB44E22D7790E183989A8B02BD.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.12.07:540][274]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.12.07:541][274]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.13.21:237][726]BlueprintLog: New page: Collapse to Function
+[2020.01.28-17.16.28:196][136]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.16.28:940][136]LogUObjectHash: Compacting FUObjectHashTables data took  10.64ms
+[2020.01.28-17.16.30:193][157]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character8122547F48868E1D9F14FD980AC4AEBA.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.16.30:218][157]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.16.30:218][157]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.16.30:944][164]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_CharacterE75E220E47706A78FD29D29392FE6159.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.16.30:970][164]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.16.30:970][164]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.16.35:948][340]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.16.36:772][340]LogUObjectHash: Compacting FUObjectHashTables data took  10.32ms
+[2020.01.28-17.16.37:489][341]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_CharacterF95DFC524926D2324EC5349F327ACDF3.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.16.37:514][341]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.16.37:514][341]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.16.54:833][ 73]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.28-17.17.17:196][800]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.28-17.18.25:568][629]BlueprintLog: New page: Compile UI_HUD
+[2020.01.28-17.18.25:864][629]LogUObjectHash: Compacting FUObjectHashTables data took  17.50ms
+[2020.01.28-17.18.26:997][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_HUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset" SILENT=true
+[2020.01.28-17.18.27:111][647]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_HUDA2D49FB74B1EF768F9430394E6980378.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset'
+[2020.01.28-17.18.27:139][647]AssetCheck: New page: Asset Save: UI_HUD
+[2020.01.28-17.18.27:139][647]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.28-17.18.29:113][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_HUD" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset" SILENT=true
+[2020.01.28-17.18.29:164][715]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_HUD88559DB3448DF96A65B3BF8BB31A2F47.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_HUD.uasset'
+[2020.01.28-17.18.29:190][715]AssetCheck: New page: Asset Save: UI_HUD
+[2020.01.28-17.18.29:190][715]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_HUD.UI_HUD
+[2020.01.28-17.18.59:609][997]BlueprintLog: New page: Compile CH_Character
+[2020.01.28-17.19.00:490][997]LogUObjectHash: Compacting FUObjectHashTables data took  13.44ms
+[2020.01.28-17.19.01:685][ 22]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character941F74C8440282CF3056C8BB672D9842.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.28-17.19.01:716][ 22]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.28-17.19.01:716][ 22]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.28-17.21.21:129][ 82]LogUObjectHash: Compacting FUObjectHashTables data took  13.01ms
+[2020.01.28-17.21.21:478][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/GMode_SunshineValley" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/GMode_SunshineValley.uasset" SILENT=true
+[2020.01.28-17.21.21:533][ 82]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/GMode_SunshineValleyC268514E454701E2F5A9A2B7D4BAC757.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/GMode_SunshineValley.uasset'
+[2020.01.28-17.21.21:580][ 82]AssetCheck: New page: Asset Save: GMode_SunshineValley
+[2020.01.28-17.21.21:580][ 82]LogContentValidation: Display: Validating Blueprint /Game/Core/GMode_SunshineValley.GMode_SunshineValley
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B425C9362-4367-C8C3-C7D0-55ACBAC7DC8E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: request failed, libcurl error: 0 (No error)
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2236a117f70 [can pipeline])
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: libcurl info message cache 1 (Re-using existing connection! (#46) with host datarouter.ol.epicgames.com)
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.21.201) port 443 (#46))
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: libcurl info message cache 4 (Closing connection 46)
+[2020.01.28-17.26.58:292][159]LogHttp: Warning: 00000223AA750B80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.01.28-17.26.58:662][160]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B425C9362-4367-C8C3-C7D0-55ACBAC7DC8E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream
