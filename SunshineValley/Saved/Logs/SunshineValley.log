@@ -1048,3 +1048,298 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.30-17.44.47:625][824]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree5292376C403ADEA16360069049F1D8D3.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
 [2020.01.30-17.44.47:652][824]AssetCheck: New page: Asset Save: UI_SkillTree
 [2020.01.30-17.44.47:652][824]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-17.57.11:410][904]LogUObjectHash: Compacting FUObjectHashTables data took  12.57ms
+[2020.01.30-17.57.11:413][904]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.119
+[2020.01.30-17.57.11:414][904]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/UI_SkillTree] ([1] browsable assets)...
+[2020.01.30-17.57.11:414][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/UI_SkillTree]
+[2020.01.30-17.57.11:613][904]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree_Auto34EAB733D49F87BE76ABB29A021EA3D10.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Autosaves/Game/Core/UI/UI_SkillTree_Auto3.uasset'
+[2020.01.30-17.57.11:615][904]LogFileHelpers: Auto-saving content packages took 0.202
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x220f130ff70 [can pipeline])
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 1 (Re-using existing connection! (#57) with host datarouter.ol.epicgames.com)
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.44.24) port 443 (#57))
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: 000002218800B9C0: libcurl info message cache 7 (Closing connection 57)
+[2020.01.30-17.57.55:347][544]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.30-18.00.16:419][588]LogHttp: Warning: 000002218800B880: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.30-18.00.16:419][588]LogHttp: Warning: 000002218800B880: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.01.30-18.00.16:419][588]LogHttp: Warning: 000002218800B880: libcurl info message cache 0 (  Trying 23.23.44.24...)
+[2020.01.30-18.00.16:419][588]LogHttp: Warning: 000002218800B880: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.01.30-18.00.16:419][588]LogHttp: Warning: 000002218800B880: libcurl info message cache 2 (connect to 23.23.44.24 port 443 failed: Timed out)
+[2020.01.30-18.00.16:419][588]LogHttp: Warning: 000002218800B880: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.01.30-18.00.16:419][588]LogHttp: Warning: 000002218800B880: libcurl info message cache 4 (Closing connection 58)
+[2020.01.30-18.00.16:420][588]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.30-18.01.07:502][451]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.01.07:653][451]LogUObjectHash: Compacting FUObjectHashTables data took  14.07ms
+[2020.01.30-18.01.09:082][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.01.09:167][471]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree9AC217E0457CCE0EB4802797A10D89C1.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.01.09:195][471]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.01.09:195][471]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.01.32:581][211]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.30-18.02.52:817][197]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.02.52:976][197]LogUObjectHash: Compacting FUObjectHashTables data took  13.57ms
+[2020.01.30-18.02.54:296][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.02.54:385][228]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree5C8B534F466CC3F78A2B679474345F17.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.02.54:413][228]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.02.54:413][228]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.03.07:774][707]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.30-18.03.09:964][776]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.30-18.04.45:172][312]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.04.45:332][312]LogUObjectHash: Compacting FUObjectHashTables data took  15.55ms
+[2020.01.30-18.04.46:647][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.04.46:780][333]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree51688C1C4F485635DBF740A60F62C9BD.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.04.46:810][333]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.04.46:810][333]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.07.42:992][128]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.07.43:148][128]LogUObjectHash: Compacting FUObjectHashTables data took  13.28ms
+[2020.01.30-18.07.44:180][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.07.44:275][154]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree20094B3643DF3CF0E7F092B3D1A167D9.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.07.44:303][154]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.07.44:303][154]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.08.02:694][851]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.08.02:841][851]LogUObjectHash: Compacting FUObjectHashTables data took  13.83ms
+[2020.01.30-18.08.04:202][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.08.04:322][879]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeA599DECD45ACBE87536828B5D88FDB1D.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.08.04:351][879]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.08.04:351][879]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.08.12:960][199]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.08.13:106][199]LogUObjectHash: Compacting FUObjectHashTables data took  14.14ms
+[2020.01.30-18.08.14:391][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.08.14:481][227]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeFC99E96B4E6C304CC34D7BA71772CBF1.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.08.14:512][227]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.08.14:512][227]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.08.30:021][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.08.30:158][802]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree99D79B9947787AF39CCE78BAA4EEA72E.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.08.30:189][802]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.08.30:189][802]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.09.47:610][833]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.09.47:803][833]LogUObjectHash: Compacting FUObjectHashTables data took  19.26ms
+[2020.01.30-18.09.48:364][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.09.48:477][837]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree9461A7444E1DB0F4104A07ACD311A50A.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.09.48:508][837]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.09.48:508][837]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.09.49:459][869]LogHttp: Warning: 000002215CDC4540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.30-18.09.49:459][869]LogHttp: Warning: 000002215CDC4540: request failed, libcurl error: 0 (No error)
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x220f130ff70 [can pipeline])
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 1 (Re-using existing connection! (#63) with host datarouter.ol.epicgames.com)
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.44.24) port 443 (#63))
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 7 (Closing connection 63)
+[2020.01.30-18.09.49:460][869]LogHttp: Warning: 000002215CDC4540: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.01.30-18.09.49:489][870]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.30-18.11.23:046][648]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.11.23:211][648]LogUObjectHash: Compacting FUObjectHashTables data took  14.09ms
+[2020.01.30-18.11.24:242][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.11.24:367][662]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree233894694369F015DB2828BC41B0518F.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.11.24:395][662]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.11.24:395][662]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.12.29:598][176]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.12.29:761][176]LogUObjectHash: Compacting FUObjectHashTables data took  14.79ms
+[2020.01.30-18.12.31:056][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.12.31:163][206]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeD30A31C14EAFBA3866171B82837F0686.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.12.31:190][206]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.12.31:190][206]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.12.58:525][287]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.12.58:705][287]LogUObjectHash: Compacting FUObjectHashTables data took  14.29ms
+[2020.01.30-18.12.59:806][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.12.59:917][308]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree70AFD5DF46A6295ACAE18999834430E0.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.12.59:945][308]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.12.59:946][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.13.15:884][899]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.13.16:045][899]LogUObjectHash: Compacting FUObjectHashTables data took  12.12ms
+[2020.01.30-18.13.17:580][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.13.17:736][940]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeAA1843164F852CFA86B6AD88B7C4986B.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.13.17:774][940]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.13.17:775][940]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.13.34:664][552]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.13.34:817][552]LogUObjectHash: Compacting FUObjectHashTables data took  12.52ms
+[2020.01.30-18.13.35:847][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.13.35:979][573]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeBA93E12D4A5E93CC26E23BB60E857EE7.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.13.36:009][573]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.13.36:009][573]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.14.49:344][394]LogSlate: Took 0.038764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.30-18.15.11:101][337]BlueprintLog: New page: Compile CH_Character
+[2020.01.30-18.15.12:156][337]LogUObjectHash: Compacting FUObjectHashTables data took  13.52ms
+[2020.01.30-18.15.13:634][360]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character3FB62F4145C22B43C50F07B634B82920.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.30-18.15.13:668][360]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.30-18.15.13:668][360]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.30-18.15.14:436][374]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character74990E5048FF4D43C8DB00B2D278C7D4.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.30-18.15.14:466][374]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.30-18.15.14:466][374]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.30-18.15.56:240][151]BlueprintLog: New page: Compile CH_Character
+[2020.01.30-18.15.57:050][151]LogUObjectHash: Compacting FUObjectHashTables data took  12.24ms
+[2020.01.30-18.15.58:137][167]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/CH_Character28C9CEBC4293EC4356DF00A16F62FAD8.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/Blueprints/CH_Character.uasset'
+[2020.01.30-18.15.58:164][167]AssetCheck: New page: Asset Save: CH_Character
+[2020.01.30-18.15.58:164][167]LogContentValidation: Display: Validating Blueprint /Game/Core/Blueprints/CH_Character.CH_Character
+[2020.01.30-18.16.13:036][686]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.30-18.16.14:848][744]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.30-18.16.17:052][814]SourceControl: fatal: E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor: 'E:/EpicGames/UE_4.24/Engine/Content/UMG/Editor' is outside repository
+[2020.01.30-18.17.38:276][895]LogUObjectHash: Compacting FUObjectHashTables data took  14.10ms
+[2020.01.30-18.17.38:278][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.132
+[2020.01.30-18.17.38:282][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/UI_SkillTree] ([1] browsable assets)...
+[2020.01.30-18.17.38:282][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/UI_SkillTree]
+[2020.01.30-18.17.38:471][895]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree_Auto4BFFD425146E95618060A29BA532DAAEE.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Autosaves/Game/Core/UI/UI_SkillTree_Auto4.uasset'
+[2020.01.30-18.17.38:525][895]LogFileHelpers: Auto-saving content packages took 0.245
+[2020.01.30-18.19.02:697][991]LogEditorTransaction: Undo Move Widget
+[2020.01.30-18.21.24:209][744]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.21.24:404][744]LogUObjectHash: Compacting FUObjectHashTables data took  14.51ms
+[2020.01.30-18.21.25:332][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.21.25:471][750]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeCEA75C57472833767E0FF6AA659A81E0.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.21.25:503][750]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.21.25:503][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.21.39:902][239]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.21.40:083][239]LogUObjectHash: Compacting FUObjectHashTables data took  13.70ms
+[2020.01.30-18.21.41:167][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.21.41:278][258]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree5A79E8714DF7DD21A165F58A613EEB0F.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.21.41:309][258]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.21.41:309][258]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.24.01:204][225]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.24.01:389][225]LogUObjectHash: Compacting FUObjectHashTables data took  14.84ms
+[2020.01.30-18.24.02:504][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.24.02:639][245]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree87E1632445BC81A0CA2938BAA9731222.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.24.02:670][245]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.24.02:670][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.24.17:327][773]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.24.17:488][773]LogUObjectHash: Compacting FUObjectHashTables data took  13.65ms
+[2020.01.30-18.24.18:579][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.24.18:707][797]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree934FC3E349A77BCE03B3FFABB600028A.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.24.18:737][797]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.24.18:737][797]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.26.24:839][589]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.26.25:034][589]LogUObjectHash: Compacting FUObjectHashTables data took  15.96ms
+[2020.01.30-18.26.26:070][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.26.26:231][605]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree12E9291541C45E4C9A69FD97A8FA1EA3.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.26.26:260][605]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.26.26:260][605]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.27.30:670][304]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.27.30:838][304]LogUObjectHash: Compacting FUObjectHashTables data took  12.96ms
+[2020.01.30-18.27.32:850][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.27.32:977][372]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree7351B1094A215B14651CC19E51CEDD9A.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.27.33:012][372]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.27.33:012][372]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: request failed, libcurl error: 0 (No error)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x220f130ff70 [can pipeline])
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 1 (Re-using existing connection! (#73) with host datarouter.ol.epicgames.com)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.44.24) port 443 (#73))
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 7 (Closing connection 73)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: 000002219D72CF40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.01.30-18.28.31:029][692]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B19E93DA3-4609-8478-BD1A-F1B8269F7A0B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d7211d6348381f8212f13aa64f8ddc2e%7C40bf5b418158439daaf60626d83de579%7C16bee034-cdd9-487b-ad8b-757f4426f328&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.01.30-18.29.22:896][724]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.29.23:076][724]LogUObjectHash: Compacting FUObjectHashTables data took  14.13ms
+[2020.01.30-18.29.24:201][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.29.24:330][743]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeEF4E148E4D5F10B635E8B6BB2038530B.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.29.24:360][743]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.29.24:360][743]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.30.08:458][393]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.30.08:662][393]LogUObjectHash: Compacting FUObjectHashTables data took  14.92ms
+[2020.01.30-18.30.09:904][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.30.10:038][413]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTreeE4E21D31424A1CFB4A0FC78FE2B83ADB.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.30.10:066][413]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.30.10:067][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.30.11:623][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.30.11:776][459]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree9B46D7BF41058322E737D8BCD379E7C0.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.30.11:803][459]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.30.11:803][459]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.30.50:971][107]LogUObjectHash: Compacting FUObjectHashTables data took  19.21ms
+[2020.01.30-18.30.50:974][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.114
+[2020.01.30-18.30.50:975][107]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/UI_SkillTree] ([1] browsable assets)...
+[2020.01.30-18.30.50:975][107]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/UI_SkillTree]
+[2020.01.30-18.30.51:129][107]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree_Auto5A1C0B76442BE49FEECCD1B962C5F2F07.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/Autosaves/Game/Core/UI/UI_SkillTree_Auto5.uasset'
+[2020.01.30-18.30.51:130][107]LogFileHelpers: Auto-saving content packages took 0.156
+[2020.01.30-18.31.30:448][607]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.31.30:629][607]LogUObjectHash: Compacting FUObjectHashTables data took  17.01ms
+[2020.01.30-18.31.31:724][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.31.31:872][625]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree63F17E92418E8F72A4119D88F82A0A4E.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.31.31:902][625]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.31.31:902][625]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.31.36:812][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.01.30-18.31.37:530][866]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.30-18.31.37:614][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.30-18.31.37:614][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.30-18.31.37:615][866]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 30, 2020, 10:31:37 PM)
+[2020.01.30-18.31.37:615][866]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.30-18.31.37:662][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046719s)
+[2020.01.30-18.31.37:665][866]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.30-18.31.37:665][866]LogPlayLevel: PIE: World Init took: (0.003090s)
+[2020.01.30-18.31.37:665][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050272s)
+[2020.01.30-18.31.37:763][866]LogUObjectHash: Compacting FUObjectHashTables data took  12.98ms
+[2020.01.30-18.31.37:768][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.30-18.31.37:768][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.30-18.31.37:769][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.30-18.31.37:769][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.30-18.31.37:769][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.30-18.31.37:769][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.30-18.31.37:769][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.30-18.31.37:769][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.30-18.31.37:769][866]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.30-18.31.37:769][866]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.30-18.31.37:832][866]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: Name: Headphones (DROP MAX Stereo)
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: Is Default: Yes
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: Sample Rate: 44100
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: Channel Count Used: 2
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: Device Channel Count: 2
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: Channel Order:
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.30-18.31.37:833][866]LogAudioMixer: Display: 1: FrontRight
+[2020.01.30-18.31.37:872][866]LogAudioMixer: Display: Using Audio Device Headphones (DROP MAX Stereo)
+[2020.01.30-18.31.37:877][866]LogInit: FAudioDevice initialized.
+[2020.01.30-18.31.37:913][866]LogLoad: Game class is 'GMode_SunshineValley_C'
+[2020.01.30-18.31.37:917][866]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.30-20.31.37
+[2020.01.30-18.31.37:918][866]LogWorld: Bringing up level for play took: 0.002464
+[2020.01.30-18.31.37:918][866]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.01.30-18.31.37:930][866]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.117
+[2020.01.30-18.31.37:931][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.30-18.31.40:640][ 10]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.01.30-18.31.46:012][329]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.01.30-18.31.47:840][433]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.01.30-18.31.49:674][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.30-18.31.49:674][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.30-18.31.49:675][542]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.30-18.31.49:676][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-18.31.49:676][542]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.30-18.31.49:676][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.30-18.31.49:676][542]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.30-18.31.49:676][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.30-18.31.49:689][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.30-18.31.49:690][542]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.30-18.31.49:700][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.30-18.31.49:782][542]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.30-18.31.49:789][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.30-18.31.49:800][542]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2020.01.30-18.31.49:844][543]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.01.30-18.32.39:378][379]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Clicked (MageButton)  and was replaced as a Custom Event!
+[2020.01.30-18.33.03:166][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.33.03:306][199]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree3AF69335406139F6683E2A9C227CBC58.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.33.03:342][199]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.33.03:342][199]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.33.03:874][216]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.33.04:107][216]LogUObjectHash: Compacting FUObjectHashTables data took  13.62ms
+[2020.01.30-18.33.05:383][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.33.05:522][239]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree639DAA7D4E0823EE76D9AE8C70D3668D.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.33.05:551][239]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.33.05:551][239]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.33.29:413][ 93]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.33.29:590][ 93]LogUObjectHash: Compacting FUObjectHashTables data took  15.26ms
+[2020.01.30-18.33.30:414][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.33.30:630][102]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree5C5479264EE196DD2EDB248AE15B7087.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.33.30:666][102]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.33.30:667][102]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
+[2020.01.30-18.34.08:443][493]BlueprintLog: New page: Compile UI_SkillTree
+[2020.01.30-18.34.08:629][493]LogUObjectHash: Compacting FUObjectHashTables data took  21.23ms
+[2020.01.30-18.34.09:763][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/UI_SkillTree" FILE="../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset" SILENT=true
+[2020.01.30-18.34.09:908][510]LogSavePackage: Moving '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Saved/UI_SkillTree61F5212845720D96EF9AFEA2BF3A91E7.tmp' to '../../../../../Projects/Unreal Engine Projects/SunshineValley/SunshineValley/Content/Core/UI/UI_SkillTree.uasset'
+[2020.01.30-18.34.09:942][510]AssetCheck: New page: Asset Save: UI_SkillTree
+[2020.01.30-18.34.09:942][510]LogContentValidation: Display: Validating WidgetBlueprint /Game/Core/UI/UI_SkillTree.UI_SkillTree
